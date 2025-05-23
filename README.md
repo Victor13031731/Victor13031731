@@ -45,6 +45,12 @@ He utilizado plataformas como **Office 365, Azure, Active Directory y VMware**, 
 
 Estoy preparado tanto para **liderar** como para **formar parte de un equipo técnico especializado**, aportando valor con **compromiso, criterio técnico y orientación a resultados**.
 
+---
+
+### 🤝 Contacto
+
+🔗 [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/victor-rodriguez-machiquez/)
+
 <!--
 **Victor13031731/Victor13031731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
